@@ -70,7 +70,7 @@ if (mediaQuery.matches){
             console.log(count);
         }
 
-    },1000);
+    },5000);
 
     function moveSlide(){
         //click the button the cards will move 
@@ -82,6 +82,7 @@ if (mediaQuery.matches){
                 });
 
             });
+
         });
 
 
